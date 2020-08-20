@@ -1,0 +1,60 @@
+
+body {
+
+    background-color: #e5f4f9;
+}
+
+h1,h2 {
+    font-style: inherit;
+    font-family: 'Courgette', cursive;
+    font-size: 40px;
+    /* problems adding font-family: 'Courgette', cursive; */
+}
+
+img {
+
+    height: 300px;
+
+}
+
+p {
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.class1, ul {
+
+    font-family: sans-serif;
+}
+
+h3 {
+
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.class2 {
+
+    color:red;
+}
+
+.class3 {
+
+    color: teal;
+
+}
+
+.class4 {
+
+    color:yellow;
+}
+
+.class5 {
+
+    color: violet;
+}
+
+.class6:hover {
+
+    color:green
+}
